@@ -4,7 +4,7 @@ int main()
 {
     printf(" Hello world!\n");
     int x;
-    x=17;
+    x=18;
     printf("x=%d\n",x);
     float a,b;
     a=5.5;
